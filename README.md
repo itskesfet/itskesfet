@@ -3,7 +3,8 @@
 Computer Networking, Linux System Internals, Network Security, Secure System Programming and Digital Forensics. 
 - - - -
 ####   REPO DESCP
-> #####   1. KAE0 is a network troubleshooting tool that traces the path packets take from your computer to a target host, similar to the classic traceroute. It sends ICMP packets with increasing Time-To-Live (TTL) values and measures the Round-Trip Time (RTT) for each hop. It also resolves router IPs to hostnames when possible and color-codes RTTs for easy visualization. -> [KAEO](https://github.com/itskesfet/KAEO)
+> #####  KAE0: ICMP-based traceroute using increasing TTL; measures RTT per hop with optional hostname resolution and latency visualization.-> [KAEO](https://github.com/itskesfet/KAEO)
+> ##### NTOP: UNIX-based network analysis tool: parses `/proc/net` to deliver structured, abstracted metrics for network performance analysis.-> [NTOP](https://github.com/itskesfet/NTOP) *(under development.)*
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=fa8fd7&size=20&center=true&vCenter=true&width=500&lines=SYSTEMS+PROGRAMMING;LOW+LEVEL+ENGINEER;NETWORK+SECURITY" />

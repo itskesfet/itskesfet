@@ -6,12 +6,12 @@ Computer Networking, Linux System Internals, Network Security, Secure System Pro
 
 #### KAE0
 > ##### ICMP-based traceroute using increasing TTL; measures RTT per hop with optional hostname resolution and latency visualization.  
-→ [KAEO](https://github.com/itskesfet/KAEO)
+###### → [KAEO](https://github.com/itskesfet/KAEO)
 
 #### NTOP
 > ##### UNIX-based network analysis tool: parses `/proc/net` to deliver structured, abstracted metrics for network performance analysis *(under development).*  
-→ [NTOP](https://github.com/itskesfet/NTOP)
+###### → [NTOP](https://github.com/itskesfet/NTOP)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=fa8fd7&size=20&center=true&vCenter=true&width=500&lines=SYSTEMS+PROGRAMMING;LOW+LEVEL+ENGINEER;NETWORK+SECURITY" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=fa8fd7&size=18&center=true&vCenter=true&width=400&lines=SYSTEMS+PROGRAMMING;LOW+LEVEL+ENGINEER;NETWORK+SECURITY" />
 </p>
